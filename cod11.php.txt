@@ -1,0 +1,25 @@
+<?php
+
+
+$nota1 = 7;
+
+
+$nota2 = 8;
+
+
+if ($nota1 >= 7 && $nota2 >= 7) {
+
+
+  echo "Você passou na prova!";
+
+
+} else {
+
+
+  echo "Você não passou na prova.";
+
+
+}
+
+
+?>

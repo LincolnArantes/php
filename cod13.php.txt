@@ -1,0 +1,14 @@
+<?php
+
+
+$texto = "Eu gosto de programar em PHP.";
+
+
+echo strlen($texto); // retorna o comprimento da string
+echo strtoupper($texto); // retorna a string em maiúsculas
+echo strtolower($texto); // retorna a string em minúsculas
+echo str_replace("PHP", "Python", $texto); // substitui a palavra "PHP" por "Python"
+
+
+
+?>
